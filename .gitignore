@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# My added documents
+sprint2_time_card.docx
+hello_world.cpp 
