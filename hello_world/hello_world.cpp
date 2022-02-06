@@ -1,10 +1,12 @@
 // Basic "Hello World" as an introduction to c++
 
-#include <iostream>
+#include <iostream> // Allows use with inputs and outputs
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "My name is Mitchell";
+    cout << "Hello World!\n"; // cout << required to output text
+    cout << "My name is Mitchell";
+    return 0;
 }
 
